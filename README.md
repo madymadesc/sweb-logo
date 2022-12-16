@@ -75,8 +75,13 @@ Ce logo est un combinaison de la Lettre S (surface), w (web) sous le Bouctou ave
 
 Surface Web est une agence de prestation des services informatiques, marketing digital
 
-D’après l’histoire le bouctou le nom donné à une femme targuie gardienne.
+D’après l’histoire le bouctou le nom donné à une femme targuie gardienne d'une puit .
 
 <p align="center">
   <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/logo-gris.png" />
+</p>
+
+### COMPOSITION DU LOGO
+<p align="center">
+  <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/composition.png" />
 </p>
