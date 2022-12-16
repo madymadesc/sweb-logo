@@ -14,4 +14,7 @@
 ##  CHARTE GRAPHIQUE
 ### (Manuel de l'identité visuelle de surface web bouctou)
 
-![left 100%](https://github.com/madymadesc/sweb-logo/blob/main/image/logo.png)
+<!-- ![ri 100%](https://github.com/madymadesc/sweb-logo/blob/main/image/logo.png) -->
+<p align="center">
+  <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/logo.png" />
+</p>
