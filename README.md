@@ -49,3 +49,18 @@
     <li><a href="#remerciements">REMERCIMENT</a></li>
   </ol>
 </details>
+
+## INTRODUCTION
+la charte graphique ou norme graphique est un document
+ de travail qui contient l’ensemble des règles fondamentales
+ d’utilisation des signes graphiques qui constitue l’identité
+ graphique d’une organisation, d’un projet, d’une entreprise.
+
+ Le but de la charte graphique est de conserver une cohérence 
+dans les réalisations graphiques d’une même organisation, 
+projet ou entreprise quels que soient les différents intervenants 
+de la production (graphiste, directeur, artistique, ...). 
+
+La bonne utilisation de la charte graphique permettra une 
+meilleure continuité visuelle de tous documents vecteurs de 
+l’identité visuelle de l’organisation.
