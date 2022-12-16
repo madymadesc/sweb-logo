@@ -96,3 +96,10 @@ Pour tout ce qui concerne les productions écrans (site web, PowerPoint...) on s
 <p align="center">
   <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/color-orange.png" />
 </p>
+
+### LA TYPOGRAPHIE
+
+Pour la composition du logo, une police de caractère a été utilisé avec différent scoops, en minuscule et majuscule. Pour une meilleure cohérence de l’ensemble des documents et déclinaisons lies au logotype on utilisera la même police qui le compose dans graisses différentes.
+<p align="center">
+  <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/typo-1.png" />
+</p>
