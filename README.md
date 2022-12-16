@@ -70,6 +70,13 @@ l’identité visuelle de l’organisation.
 <p align="center">
   <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/logo-blanc.png" />
 </p>
+
+Ce logo est un combinaison de la Lettre S (surface), w (web) sous le Bouctou avec l’apparition de la digital
+
+Surface Web est une agence de prestation des services informatiques, marketing digital
+
+D’après l’histoire le bouctou le nom donné à une femme targuie gardienne.
+
 <p align="center">
-  <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/logo-.png" />
+  <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/logo-gris.png" />
 </p>
