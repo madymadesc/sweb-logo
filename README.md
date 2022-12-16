@@ -85,3 +85,14 @@ D’après l’histoire le bouctou le nom donné à une femme targuie gardienne 
 <p align="center">
   <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/composition.png" />
 </p>
+
+### LES COULEURS
+
+On distinguera deux modèles colorimétriques, chacun répondant à un usage spécifique. Le plus courant est la quadrichrome (CMJN) utilise pour tous les travaux d’édition.
+Pour tout ce qui concerne les productions écrans (site web, PowerPoint...) on se réfère aux valeurs RVB
+<p align="center">
+  <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/color-gris.png" />
+</p>
+<p align="center">
+  <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/color-orange.png" />
+</p>
