@@ -64,3 +64,12 @@ de la production (graphiste, directeur, artistique, ...).
 La bonne utilisation de la charte graphique permettra une 
 meilleure continuité visuelle de tous documents vecteurs de 
 l’identité visuelle de l’organisation.
+
+
+## LE LOGO
+<p align="center">
+  <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/logo-blanc.png" />
+</p>
+<p align="center">
+  <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/logo-.png" />
+</p>
