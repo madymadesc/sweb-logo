@@ -18,6 +18,9 @@
 <p align="center">
   <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/logo.png" />
 </p>
+<p align="center">
+  <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/Couverture.png" />
+</p>
 
 <!-- TABLE DES MATIÈRES -->
 <details open="open">
