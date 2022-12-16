@@ -13,7 +13,7 @@
 
 ##  CHARTE GRAPHIQUE
 ### (Manuel de l'identité visuelle de surface web bouctou)
-
+***
 <!-- ![ri 100%](https://github.com/madymadesc/sweb-logo/blob/main/image/logo.png) -->
 <p align="center">
   <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/logo.png" />
@@ -29,3 +29,4 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 </div>
+***
