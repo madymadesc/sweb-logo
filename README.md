@@ -15,9 +15,7 @@
 ### (Manuel de l'identité visuelle de surface web bouctou)
 
 <!-- ![ri 100%](https://github.com/madymadesc/sweb-logo/blob/main/image/logo.png) -->
-<p align="center">
-  <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/logo.png" />
-</p>
+
 <p align="center">
   <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/Couverture.png" />
 </p>
@@ -51,6 +49,10 @@
 </details>
 
 ## INTRODUCTION
+
+<p align="center">
+  <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/logo.png" />
+</p>
 la charte graphique ou norme graphique est un document
  de travail qui contient l’ensemble des règles fondamentales
  d’utilisation des signes graphiques qui constitue l’identité
@@ -103,4 +105,6 @@ Pour la composition du logo, une police de caractère a été utilisé avec diff
 <p align="center">
   <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/typo-1.png" />
 </p>
+
+### LES DECLINAISONS DU LOGO
 https://github.com/thierry-laval/P22-template-pour-un-readme
