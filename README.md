@@ -117,4 +117,19 @@ Pour la composition du logo, une police de caractère a été utilisé avec diff
 <p align="center">
   <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/vre-couleur.png" />
 </p>
+
+### LES REGLES DE BASE DU LOGO
+
+La taille et l’organisation du logo peuvent varier selon les documents. Tout changement de taille devra être effectue proportionnellement (aussi bien la longueur que la hauteur).
+Pour qu’il soit lisible une taille minimale du logo (40 mm de large pour le logo horizontal doit être respecter) d’une façon générale, aucune modification du logo officiel n’est acceptée. C’est à dire qu’aucun des éléments qui le compose ne doit varier indépendamment de l’autre.
+Le logo tient dans un rectangle fictif et ne doit pas en sortir.
+<p align="center">
+  <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/mm40.png" />
+</p>
+
+#### INTERDICTION
+
+<p align="center">
+  <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/interdit.png" />
+</p>
 https://github.com/thierry-laval/P22-template-pour-un-readme
