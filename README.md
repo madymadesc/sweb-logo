@@ -132,4 +132,17 @@ Le logo tient dans un rectangle fictif et ne doit pas en sortir.
 <p align="center">
   <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/interdit.png" />
 </p>
+
+### LE LOGO SUR FONDS COLORES
+
+Dans une mise en page, en fonction de la création le logo sera amené à être positionne sur un fond couleur ou sur une image.
+
+Dans la mesure du possible, il est préférable de conserver le logo tel quel, sans fond blanc.
+Dans le cas d’un fond très colore ou très proche d’une des couleurs du logo on appliquera un bloc blanc sous le logo ou on laissera le logo en blanc.
+
+En aucun cas le logo noir & blanc sera utilisé sur un fond colore ou une image.
+
+<p align="center">
+  <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/fond.png" />
+</p>
 https://github.com/thierry-laval/P22-template-pour-un-readme
