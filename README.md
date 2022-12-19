@@ -145,4 +145,20 @@ En aucun cas le logo noir & blanc sera utilisé sur un fond colore ou une image.
 <p align="center">
   <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/fond.png" />
 </p>
+
+## LA TYPOGRAPHIE D’ACCOMPAGNEMENT
+
+Pour toute sa communication d’usage bureatique, mediatique
+nous utiliserons une typographie d’accompagnement.
+
+La large choix de caracrteres proposes par Jua et Poppins 
+suffisent pour couvrir l’endemble des applications et des 
+demandes.
+
+<p align="center">
+  <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/typo-1.png" />
+</p>
+<p align="center">
+  <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/typo-2.png" />
+</p>
 https://github.com/thierry-laval/P22-template-pour-un-readme
