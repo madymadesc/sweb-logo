@@ -162,3 +162,10 @@ demandes.
   <img src="https://github.com/madymadesc/sweb-logo/blob/main/image/typo-2.png" />
 </p>
 https://github.com/thierry-laval/P22-template-pour-un-readme
+
+<!-- Writing objects: 100% (5/5), 9.15 KiB | 1.31 MiB/s, done.
+Total 5 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/madymadesc/sweb-logo.git
+   2f8ac88..87387d0  main -> main
+PS C:\Users\DELL\Documents\sweb-logo>  -->
